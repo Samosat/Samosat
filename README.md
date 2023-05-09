@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Samosat
 - 👀 I’m interested in programing, math, geografy, physics, history:
 - 🌱 I’m currently learning C++, JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail - samvelkhach33@gmail.com
 
 <!---
